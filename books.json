@@ -8,13 +8,7 @@
         {
             "title": "Going There",
             "author": "Katie Couric",
-            "attributes": "Heartfelt, Loved"         
-        },
-        {
-            "title": "Homeland Elegies",
-            "author": "Ayad Akhtar",
-            "attributes": "fiction, semi-autobiographical, political<"         
+            "attribute": "Heartfelt, Loved"
         }
-        
     ]
-  }
+}
