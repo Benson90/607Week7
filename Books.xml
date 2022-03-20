@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<books>
+
+<Record>
 	<book>
 		<title>Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX</title>
           	<author>Eric Berger</author>
@@ -16,4 +16,4 @@
           	<attributes>fiction, semi-autobiographical,political</attributes>
 	</book>
     
-</books>
+</Record>
