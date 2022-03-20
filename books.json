@@ -1,0 +1,19 @@
+{
+    "books": [
+        {
+            "title": "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX",
+            "author": "Eric Berger",
+            "attributes": "Fascinating, Successful"         
+        },
+        {
+"title": "Going There",
+"author": "Katie Couric",
+"attributes": "Heartfelt, Loved"
+},
+{
+"title": "Homeland Elegies",
+"author": "Ayad Akhtar",
+"attributes": "fiction, semi-autobigraphical, political"
+}
+]
+}
